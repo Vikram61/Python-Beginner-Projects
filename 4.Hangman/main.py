@@ -55,5 +55,6 @@ def hangman():
         print(f"Yay you guessed the word correctly it is {word}")
     
 
-
-hangman()
+#Driver Code
+if __name__=="__main__":
+    hangman()
