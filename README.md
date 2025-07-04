@@ -1,4 +1,4 @@
-# 🐍 Python Beginner Level Projects
+# ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white) Python Beginner Level Projects
 
 These **Python Beginner Level Projects** —  are a curated collection of fun, beginner-friendly Python games. Each project is simple, interactive, and designed to help practice core Python concepts like variables, conditionals, loops, functions, OOP, recursion, and basic algorithms.
 
