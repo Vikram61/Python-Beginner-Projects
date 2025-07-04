@@ -4,7 +4,7 @@ These **Python Beginner Level Projects** —  are a curated collection of fun, b
 
 ---
 
-## 🚀 Projects Included
+## 🚀 Projects
 
 ### 1. 🎯 Guess the Number 1
 A basic number guessing game where the computer selects a random number and the player tries to guess it in as few attempts as possible.
@@ -61,6 +61,7 @@ A simplified terminal-based Minesweeper game where the player uncovers cells and
 ## 📂 Folder Structure
 
 python-beginner-level-projects/
+
 ├── guess-the-number-1/
 
 │ └── main.py
