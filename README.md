@@ -36,7 +36,18 @@ The classic word guessing game where the player guesses letters one at a time. T
 
 ---
 
-### 4. ❌⭕ Tic Tac Toe
+## 4. 🎮 Rock Paper Scissors
+
+A simple Rock-Paper-Scissors game where you play against the computer. It uses basic conditionals and random number generation.
+
+**Concepts Practiced**:
+- User input
+- `random module`
+- Looping game logic
+
+---
+
+### 5. ❌⭕ Tic Tac Toe
 A 2-player (or human vs computer) game of Tic Tac Toe with logic to detect winning combinations.
 
 **Concepts Practiced:**  
@@ -47,7 +58,7 @@ A 2-player (or human vs computer) game of Tic Tac Toe with logic to detect winni
 
 ---
 
-### 5. 💣 Minesweeper
+### 6. 💣 Minesweeper
 A simplified terminal-based Minesweeper game where the player uncovers cells and avoids hidden bombs.
 
 **Concepts Practiced:**  
@@ -71,6 +82,10 @@ python-beginner-level-projects/
 │ └── main.py
 
 ├── hangman/
+
+│ └── main.py
+
+├── rock-paper-scissors/
 
 │ └── main.py
 
